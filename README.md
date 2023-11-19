@@ -4,3 +4,4 @@ This is our Nekta Project which revolves around  bee keeping activity. We did th
 3. Kerry
 4. Bala Grivine
 5. Nesh
+6. Victor Nduati
